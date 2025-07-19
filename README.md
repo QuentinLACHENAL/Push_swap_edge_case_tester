@@ -6,5 +6,7 @@ This is a test to compare the output of your program with the OFFICIAL linux tes
 
 Just put push_swap and checker_linux in the same folder then run with:
 
-bash ultimate_tests.sh
+bash ultimate_tests_english.sh
+
+(or ultimate_tests.sh for french version)
 
